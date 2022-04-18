@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15187efb.css",
+    "main.js": "/static/js/main.a7d902f7.js",
+    "static/media/background.png": "/static/media/background.c3f65abeb4769f192071.png",
+    "static/media/more.png": "/static/media/more.46dde3c958c3a2efc3bb.png",
+    "static/media/slider5.png": "/static/media/slider5.cba4d92beb2d5ace3466.png",
+    "static/media/slider1.png": "/static/media/slider1.863676115c1942cc054f.png",
+    "static/media/slider4.png": "/static/media/slider4.6ab5d5a62d4b20e152de.png",
+    "static/media/slider3.png": "/static/media/slider3.8934666b0b6eea4f6015.png",
+    "static/media/slider2.png": "/static/media/slider2.3b916dc1c315c852173a.png",
+    "static/media/logo.svg": "/static/media/logo.bc588d992055212e8997a878ac242940.svg",
+    "static/media/Mision-min-2.png": "/static/media/Mision-min-2.ec0d5330b7aea222eb5c.png",
+    "static/media/Mision-min-1.png": "/static/media/Mision-min-1.f3dac02728ea023d476d.png",
+    "static/media/Mision-min-3.png": "/static/media/Mision-min-3.4dae1ea632773d751841.png",
+    "static/media/dog_2.png": "/static/media/dog_2.79fdb1b81d1a81ca3273.png",
+    "static/media/about.jpg": "/static/media/about.5fba7dc87a114a50b6f9.jpg",
+    "static/media/spa.jpg": "/static/media/spa.c810c456e2679ce016ea.jpg",
+    "static/media/price.jpg": "/static/media/price.d6de84b2812545d755d4.jpg",
+    "static/media/hospital.jpg": "/static/media/hospital.3e7528b9097eccf57b7c.jpg",
+    "static/media/dog_1.png": "/static/media/dog_1.3f141314a96622e880c9.png",
+    "static/media/dog_3.png": "/static/media/dog_3.799f6f8b130e9c45f9c3.png",
+    "static/media/SenShop-Logo-clone.png": "/static/media/SenShop-Logo-clone.578b9a4bd60bb73341f5.png",
+    "static/media/avatar.jpg": "/static/media/avatar.d86a269f7b213710cdba.jpg",
+    "static/media/shoppingCart.svg": "/static/media/shoppingCart.fab0d951e6ef60cc1247cacc9ce9b2b4.svg",
+    "static/media/phone.svg": "/static/media/phone.bf4c27666be16b5f0163fcc625ef82c6.svg",
+    "static/media/youtube.svg": "/static/media/youtube.2599c3b2daac7d97ada009ce0c3f74b7.svg",
+    "static/media/face.svg": "/static/media/face.a89a49402aba8b2d2544148c036d7d22.svg",
+    "index.html": "/index.html",
+    "main.15187efb.css.map": "/static/css/main.15187efb.css.map",
+    "main.a7d902f7.js.map": "/static/js/main.a7d902f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15187efb.css",
+    "static/js/main.a7d902f7.js"
+  ]
+}
