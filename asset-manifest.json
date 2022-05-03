@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e84d92ce.css",
-    "main.js": "/static/js/main.221f4ab2.js",
+    "main.css": "/static/css/main.7f8373a3.css",
+    "main.js": "/static/js/main.a3dc1911.js",
     "static/media/background.png": "/static/media/background.c3f65abeb4769f192071.png",
     "static/media/more.png": "/static/media/more.46dde3c958c3a2efc3bb.png",
     "static/media/slider5.png": "/static/media/slider5.cba4d92beb2d5ace3466.png",
@@ -15,27 +15,24 @@
     "static/media/Mision-min-2.png": "/static/media/Mision-min-2.ec0d5330b7aea222eb5c.png",
     "static/media/Mision-min-1.png": "/static/media/Mision-min-1.f3dac02728ea023d476d.png",
     "static/media/Mision-min-3.png": "/static/media/Mision-min-3.4dae1ea632773d751841.png",
-    "static/media/dog_2.png": "/static/media/dog_2.79fdb1b81d1a81ca3273.png",
     "static/media/about.jpg": "/static/media/about.5fba7dc87a114a50b6f9.jpg",
     "static/media/le.png": "/static/media/le.103eb23765ac44de6431.png",
     "static/media/spa.jpg": "/static/media/spa.c810c456e2679ce016ea.jpg",
     "static/media/price.jpg": "/static/media/price.d6de84b2812545d755d4.jpg",
     "static/media/hospital.jpg": "/static/media/hospital.3e7528b9097eccf57b7c.jpg",
-    "static/media/service_1.jpg": "/static/media/service_1.bdfc5f4b861773cc74f1.jpg",
-    "static/media/dog_1.png": "/static/media/dog_1.3f141314a96622e880c9.png",
-    "static/media/dog_3.png": "/static/media/dog_3.799f6f8b130e9c45f9c3.png",
     "static/media/SenShop-Logo-clone.png": "/static/media/SenShop-Logo-clone.578b9a4bd60bb73341f5.png",
+    "static/media/logo.png": "/static/media/logo.475742804624f0ac2242.png",
     "static/media/avatar.jpg": "/static/media/avatar.d86a269f7b213710cdba.jpg",
     "index.html": "/index.html",
     "static/media/shoppingCart.svg": "/static/media/shoppingCart.fab0d951e6ef60cc1247cacc9ce9b2b4.svg",
     "static/media/phone.svg": "/static/media/phone.bf4c27666be16b5f0163fcc625ef82c6.svg",
     "static/media/youtube.svg": "/static/media/youtube.2599c3b2daac7d97ada009ce0c3f74b7.svg",
     "static/media/face.svg": "/static/media/face.a89a49402aba8b2d2544148c036d7d22.svg",
-    "main.e84d92ce.css.map": "/static/css/main.e84d92ce.css.map",
-    "main.221f4ab2.js.map": "/static/js/main.221f4ab2.js.map"
+    "main.7f8373a3.css.map": "/static/css/main.7f8373a3.css.map",
+    "main.a3dc1911.js.map": "/static/js/main.a3dc1911.js.map"
   },
   "entrypoints": [
-    "static/css/main.e84d92ce.css",
-    "static/js/main.221f4ab2.js"
+    "static/css/main.7f8373a3.css",
+    "static/js/main.a3dc1911.js"
   ]
 }
