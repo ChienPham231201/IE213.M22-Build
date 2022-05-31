@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/434.51212302.chunk.css","mappings":"AAAA,oCACI,YACI","sources":["sass/Admin/AdminLoginForm.scss"],"sourcesContent":["@media screen and (max-width: 575px) {\r\n    .admin_logo {\r\n        left: 12% !important;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
